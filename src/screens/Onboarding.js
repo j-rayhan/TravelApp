@@ -19,7 +19,7 @@ export default ({ navigation }) => {
       </View>
       <View style={[styles.container, styles.center]}>
         <View style={{ alignItems: 'center', marginHorizontal: SIZES.padding }}>
-          <Text style={{ ...FONTS.h2 }}>Digital ticket</Text>
+          <Text style={{ ...FONTS.h2 }}>Digital Ticket</Text>
           <Text style={{ ...FONTS.body3, color: COLORS.gray, marginTop: SIZES.padding, textAlign: 'center' }}>
             Easy solution to buy tickets for your travel, business trips, transportation, lodging and culinary.
           </Text>

@@ -28,7 +28,7 @@ const App = () => {
     return (
         <NavigationContainer theme={theme}>
             <Stack.Navigator
-                initialRouteName={ROUTES.HOME_SCREEN}
+                initialRouteName={ROUTES.ONBOARDING_SCREEN}
             >
                 {/* Screens */}
                 <Stack.Screen
