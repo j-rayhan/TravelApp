@@ -2,8 +2,6 @@
 
 I am going to build a beautiful Trip Booking app based on the design created by Reiza on Dribbble.
 
-Be sure to subscribe to our YouTube channel for more videos like this!
-
 ## Table of Contents
 
 | Code | Project | Preview | Inspiration | No. of Screens |
